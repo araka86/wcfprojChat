@@ -1,0 +1,11 @@
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\bin\Debug\ChatHost.exe.config
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\bin\Debug\ChatHost.exe
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\bin\Debug\ChatHost.pdb
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\bin\Debug\Wcf_Chat_Server.dll
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\bin\Debug\Wcf_Chat_Server.pdb
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\bin\Debug\Wcf_Chat_Server.dll.config
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\obj\Debug\ChatHost.exe
+D:\Udemy\WCF\Wcf_Chat_Server\ChatHost\obj\Debug\ChatHost.pdb
